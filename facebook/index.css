@@ -1,0 +1,130 @@
+.text{
+    margin-top: 0;
+    width: 50%;
+    height: 600px;
+    background:rgb(235, 228, 248);
+    float: left;
+}
+.login{
+    width: 50%;
+    height: 600px;
+    background:rgb(235, 228, 248) ;
+    float: left;
+}
+body{
+    margin: 0;
+}
+#facebook-logo{
+    margin-top: 160px;
+    margin-left: 200px;
+    margin-bottom: -50px;
+    margin-left: 170px;
+   
+}
+#text1{
+    margin-top: 0;
+    margin-left: 200px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 27px;
+}
+.login-box{
+    width: 400px;
+    height: 370px;
+    background: white;
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-top: 120px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+}
+#form1{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 345px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    color: #1877f2;
+    font-size: 17px;
+    padding-left: 10px;
+    outline: #1877f2;
+    cursor: pointer;
+}
+#but1{
+    width: 360px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: #1877f2;
+    border-color: #365899;
+    border: none;
+    border-radius: 6px;
+    line-height: 48px;
+    font-size: 21px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+    
+}
+a{
+    padding-top: 30px;
+    padding-left: 130px;
+    color: #1877f2;
+    border-color: #1877f2;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    
+    
+}
+hr {
+    width: 350px;
+    top: 5px;
+    border: none;
+    height: 1px;
+    background: rgb(148, 144, 144);
+}
+    
+#but2{
+    width: 180px;
+    height: 48px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(23, 185, 23);
+    color: rgb(250, 248, 248);
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 110px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+#last1{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin-right: 0;
+    padding-left: 40px;
+    color:black;
+    font-size: 15px;
+       
+}
+#last2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin: 0px;
+    padding:0;
+    
+}
+#but2:hover{
+  background-color: rgb(46, 146, 46) ;
+
+}
+#form1:hover{
+    border-color: #1877f2;
+}
+a:hover{
+    text-decoration: underline;
+}
